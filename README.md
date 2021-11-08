@@ -7,6 +7,7 @@
 ## 说明
 
 本教程将 gsap 结合 Pixi。只讲解并演示 2 个主要方法：`gsap.to()`和`gsap.timeline()`。
+官网：https://greensock.com/#
 
 
 
